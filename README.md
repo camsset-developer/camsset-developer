@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola, soy Camsset 👋
 
-<!--
-**camsset-developer/camsset-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desarrollador apasionado por crear experiencias web atractivas  
+💻 Stack: JavaScript · HTML · CSS  
+🌎 Lima, Perú  
+📫 Contáctame: [tu email o LinkedIn]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Tech |
+|----------|-------------|------|
+| [music-recommender](https://github.com/camsset-developer/music-recommender) | Sistema de recomendación de música con IA | JavaScript |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camsset-developer&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camsset-developer&layout=compact&theme=tokyonight&hide_border=true)
