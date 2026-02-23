@@ -1,9 +1,9 @@
 # Hola, soy Camsset 👋
 
-🎯 Desarrollador apasionado por crear experiencias web atractivas  
-💻 Stack: JavaScript · HTML · CSS  
+🎯 AI System Developer - Data Engineering
+💻 Stack: Full-Stack, Cloud Services, Data Engineering, Data science 
 🌎 Lima, Perú  
-📫 Contáctame: [tu email o LinkedIn]
+📫 Contáctame: camsset.developer@gmail.com
 
 ---
 
