@@ -1,4 +1,4 @@
-# Hola, soy Camsset 👋
+# Camila Saenz 
 
 🎯 AI System Developer - Data Engineering
 💻 Stack: Full-Stack, Cloud Services, Data Engineering, Data science 
@@ -11,7 +11,7 @@
 
 | Proyecto | Descripción | Tech |
 |----------|-------------|------|
-| [music-recommender](https://github.com/camsset-developer/music-recommender) | Sistema de recomendación de música con IA | JavaScript |
+| [music-recommender](https://github.com/camsset-developer/music-recommender) | Sistema de recomendación de música con IA | AI - Google Cloud |
 
 ---
 
