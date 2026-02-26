@@ -11,7 +11,7 @@
 
 | Proyecto | Descripción | Tech |
 |----------|-------------|------|
-| [music-recommender](https://github.com/camsset-developer/music-recommender) | Sistema de recomendación de música con IA | AI - Google Cloud |
+| [music-recommender-rag](https://github.com/camsset-developer/music-recommender-rag ) | Sistema de recomendación de música con IA | AI - Google Cloud |
 
 ---
 
